@@ -22,13 +22,13 @@ You must maintain this file throughout development.
 ## Bug 1
 
 **Date Identified:**  
-(e.g., 15/03/2026)
+15/07/2026
 
 **Date Fixed:**  
-(e.g., 15/03/2026)
+15/07/2026
 
 **File:**  
-(e.g., about.html)
+index.html
 
 **Related Commit:**  
 (e.g., abc1234)
